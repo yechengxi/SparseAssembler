@@ -6,7 +6,7 @@ http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-S6-S1
 
 Basic command for the software:
 
-./SparseAssembler g 10 k 51 LD 0 GS 200000000 NodeCovTh 1 EdgeCovTh 0 1 f frag_1.fastq f frag_2.fastq f frag_3.fastq  &
+./SparseAssembler g 10 k 51 LD 0 GS 200000000 NodeCovTh 1 EdgeCovTh 0 f frag_1.fastq f frag_2.fastq f frag_3.fastq  &
 
 For memory usages, results and comparisons:
 
